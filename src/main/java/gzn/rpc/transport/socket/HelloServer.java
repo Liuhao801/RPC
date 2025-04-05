@@ -1,4 +1,4 @@
-package gzn.rpc.socket;
+package gzn.rpc.transport.socket;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package gzn.rpc.socket;
+package gzn.rpc.transport.socket;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
